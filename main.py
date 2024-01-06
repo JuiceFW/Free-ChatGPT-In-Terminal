@@ -49,6 +49,7 @@ def main() -> None:
         
         answer = ask(prompt)
         
+        print("\n")
         print(answer)
         print("\n")
 
