@@ -47,6 +47,9 @@ def main() -> None:
     while True:
         prompt = input()
         
+        if not prompt:
+            continue
+
         answer = ask(prompt)
         
         print("\n")
