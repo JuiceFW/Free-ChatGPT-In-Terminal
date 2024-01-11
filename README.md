@@ -11,7 +11,7 @@ The "Free Chat GPT In Console" is a Python script that allows you to have intera
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/JuiceFW/Free-ChatGPT-In-Terminal.git`
-2. Navigate to the project directory: `cd free-chat-gpt-in-terminal`
+2. Navigate to the project directory: `cd free-chatgpt-in-terminal`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
